@@ -1,0 +1,1 @@
+export PYTHONPATH=/home/rpp/anaconda3/envs/yolo/lib/python3.10/site-packages:$PYTHONPATH
